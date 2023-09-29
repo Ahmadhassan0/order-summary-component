@@ -18,7 +18,8 @@ The challenge required the following:
 
 ## Screenshots 📷
 
-![Desktop preview](./screenshort/desktop-preview.png)
+![Desktop preview](./screenshort/desktop-order-summary-preview.png)
+![Mobile preview](./screenshort/mobile-order-summary-preview.png)
 
 ## Live Demo 🚀
 
