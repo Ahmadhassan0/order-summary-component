@@ -1,8 +1,8 @@
-# Product Preview Card Component 👨‍💻
+# Order Summary Component 👨‍💻
 
 ## Project Overview 🌟
 
-This is a front-end coding challenge completed for [Frontend Mentor](https://www.frontendmentor.io). The challenge was to build a product preview card component and make it look as close to the provided design as possible.
+This is a front-end coding challenge completed for [Frontend Mentor](https://www.frontendmentor.io). The challenge was to build a order summary component and make it look as close to the provided design as possible.
 
 ## Technologies Used 💻
 
